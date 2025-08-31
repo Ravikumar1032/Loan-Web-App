@@ -68,9 +68,6 @@ The Loan Application Web App is a comprehensive solution for loan management. It
 - Node.js (Express.js)
 - MongoDB (Database)
 
-### Deployment
-- Hosted on a cloud platform (e.g., AWS, Heroku).
-
 ---
 
 ## Directory Structure
